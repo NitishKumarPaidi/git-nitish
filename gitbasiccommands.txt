@@ -1,0 +1,21 @@
+git init                ---->        git initialize a new empty repository
+
+git status              ---->        check git status
+
+git add filename        ---->        adding file to git
+
+git commit              ---->        which sends the latest changes of the source code to the repository (or) Commit a snapshot of all changes in the working directory.
+
+git commit -m "message" ---->        which sends the latest changes of the source code to the repository with some message
+
+then create repository
+
+git remote add origin filepath ---->     adding a repository remote origin filepath to the github
+
+git branch              ---->        a pointer to a snapshot of your changes   (either a master/ Main branch)
+                                    and u can create multiple branches with different names
+
+git push --set-upstream origin branchname ---->     pushing files to particular branch
+
+
+
